@@ -1,0 +1,3 @@
+Enter the number of words: Enter word 1: Enter word 2: Maximum possible permutations of words without vowels:
+Word: hlwref -> Without Vowels: hlwrf -> Permutations: 120
+Word: hef -> Without Vowels: hf -> Permutations: 2
